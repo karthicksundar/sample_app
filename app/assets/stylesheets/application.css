@@ -11,3 +11,8 @@
  *= require_self
  *= require_tree .
  */
+
+.image-size {
+  max-width: 2400px;
+  max-height: 780px;
+}
